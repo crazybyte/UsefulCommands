@@ -1,0 +1,22 @@
+[
+    {
+        "caption": "Project: Open Project…",
+        "command": "prompt_open_project"
+    },
+    {
+        "caption": "Project: Switch Project in current window…",
+        "command": "prompt_select_project"
+    },
+    {
+        "caption": "Project: Remove all Folders from Project",
+        "command": "close_folder_list"
+    },
+    {
+        "caption": "Project: Refresh Folders",
+        "command": "refresh_folder_list"
+    },
+    {
+        "caption" : "Edit useful commands file",
+        "command": "open_file", "args": {"file": "${packages}/UsefulCommands/Default.sublime-commands"}
+    }
+]
